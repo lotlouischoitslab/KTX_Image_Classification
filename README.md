@@ -9,4 +9,8 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 
 ![title](images/ktx.png)
 
+![title](images/ktx_sancheon.png)
+
+![title](images/ktx_eum.png)
+
 ![title](images/srt.png)
