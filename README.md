@@ -18,7 +18,8 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 - ##### Image Source: https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/
 
 ![title](images/ktx_eum.png)
-
+#### KTX EUM model developed by Hyundai Rotem traveling along the Yangsu Bridge of the Jungang Line.
+#### 중앙선 양수철교 구간을 고속으로 주행하는 현대로템에서 제작한 KTX 이음 고속열차.
 - #### Image Source: http://www.cenews.co.kr/news/articleView.html?idxno=12122
 
 ![title](images/srt.png)
