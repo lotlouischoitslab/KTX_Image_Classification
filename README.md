@@ -7,7 +7,7 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
-![title](images/ktx.png)
+![title](images/ktx_one.png)
 
 ![title](images/ktx_sancheon.png)
 
