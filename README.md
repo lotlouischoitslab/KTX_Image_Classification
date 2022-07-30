@@ -12,6 +12,7 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 - #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
 
 ![title](images/ktx_sancheon.png)
+### The image above shows KTX Sancheon the newly developed model by Hyundai Rotem approaching.
 - ##### Image Source: https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/
 
 ![title](images/ktx_eum.png)
