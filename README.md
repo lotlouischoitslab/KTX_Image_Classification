@@ -20,6 +20,6 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 ![title](images/ktx_eum.png)
 #### KTX EUM model developed by Hyundai Rotem traveling along the Yangsu Bridge of the Jungang Line.
 #### 중앙선 양수철교 구간을 고속으로 주행하는 현대로템에서 제작한 KTX 이음 고속열차.
-- #### Image Source: http://www.cenews.co.kr/news/articleView.html?idxno=12122
+- #### Image Source: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=69229
 
 ![title](images/srt.png)
