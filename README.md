@@ -13,8 +13,8 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 - #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
 
 ![title](images/ktx_sancheon.png)
-#### KTX Sancheon (KTX 산천) model developed by Hyundai Rotem traveling along the Gangneung Line (강릉선).
-#### 강릉선을 고속으로 주행하는 현대로템에서 제작한 KTX 산천.
+#### KTX Sancheon model developed by Hyundai Rotem traveling along the Gangneung Line.
+#### 강릉선을 고속으로 주행하는 현대로템에서 제작한 KTX 산천 고속열차.
 - ##### Image Source: https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/
 
 ![title](images/ktx_eum.png)
