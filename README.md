@@ -8,7 +8,7 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
 ![title](images/ktx_one.png)
-KTX 1 the original French TGV model high-speed train
+#### KTX 1 the original French TGV model high-speed train
 - #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
 
 ![title](images/ktx_sancheon.png)
