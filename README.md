@@ -16,4 +16,6 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 
 ![title](images/ktx_eum.png)
 
+- #### Image Source: https://www.etoday.co.kr/news/view/1996363
+
 ![title](images/srt.png)
