@@ -1,4 +1,4 @@
-# KTX Ridership Analysis & Pattern Recognition
+# KTX Classification Analysis
 ## Contributors:
 - ### Louis Sungwoo Cho (조성우)
 
