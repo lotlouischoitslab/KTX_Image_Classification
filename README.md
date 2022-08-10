@@ -23,3 +23,6 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 - #### Image Source: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=69229
 
 ![title](images/srt.png)
+#### SRT train developed by Hyundai Rotem passing Pyeongtaek Jije Station.
+#### 평택지제역을 통과하는 현대로템에서 제작한 SRT 고속열차.
+- #### Image Source: https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000
