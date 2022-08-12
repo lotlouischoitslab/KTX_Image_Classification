@@ -27,3 +27,5 @@ This project is about analyzing and predicting KTX (Korea Train eXpress) passeng
 ### 평택지제역을 통과하는 현대로템에서 제작한 SRT 고속열차.
 - #### Image Source: https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000
 
+# Motivation
+South Korea first opened their high-speed rail network on April 1st, 2004 to make rail travel time more fast and convenient. 
