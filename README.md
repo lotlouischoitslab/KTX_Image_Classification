@@ -3,7 +3,7 @@
 - ### Louis Sungwoo Cho (조성우)
 
 # Project Description
-This project is about analyzing and predicting KTX (Korea Train eXpress) passenger ridership and image classification of high-speed trains in South Korea. The combined datasets were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
+This project is about analyzing and predicting KTX (Korea Train eXpress) and SRT (Super Rapid Train) passenger ridership and image classification of high-speed trains in South Korea. The combined datasets were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
