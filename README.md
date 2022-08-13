@@ -53,6 +53,6 @@ Random South Korean high-speed train image datasets were used to train the neura
 ![title](images/random_srt.png)
 ### Figure 4. above shows the 10 random SRT images from the given image dataset.
 
-Once all the random image datasets were printed out, the entire image dataset was split into training and testing sets. 80% of the total image datasets were used for training and the remaining 20% of the total image datasets were used for testing. The epochs number was set to 20. Then all the data were shuffled before the neural network model was created. 
+Once all the random image datasets were printed out, the entire image dataset was split into training and testing sets. 80% of the total image datasets were used for training and the remaining 20% of the total image datasets were used for testing. The epochs number was set to 20 so the training model was run for 20 times. Then all the data were shuffled before the neural network model was created. 
 
 # Convolutional Neural Network (CNN) Model
