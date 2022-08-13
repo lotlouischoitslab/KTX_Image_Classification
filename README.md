@@ -75,4 +75,16 @@ The convolution operation is then performed by splitting the 3 by 3 matrix into 
 ![title](images/cnn_visual.gif)
 #### Figure 8. above shows the visualization of the  convolution input of the image.
 
+Once all the convolution has been performed on the image datasets, pooling is then used to reduce the dimensions, a crucial step to enable reducing the number of parameters shortening the training time and preventing overfitting. Maximum pooling was used for this model which only uses the maximum value from the pooling window. 
+
+![title](images/cnn_pooling2d.png)
+#### Figure 9. above shows the pooling of the processed image in a 2 by 2 window.
+
+![title](images/cnn_pooling3d.png)
+#### Figure 10. above shows the pooling of the processed image in a 3 by 3 window.
+
+Finally after adding all the convolution and pooling layers, the entire 3D tensor is flatten out to be a 1D vector into a fully connected layer to produce the output. 
+![title](images/cnn_imp.png)
+#### Figure 11. above shows the visual implementation of the CNN model. 
+
 ##### Original Source for the CNN Explanation: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient.
