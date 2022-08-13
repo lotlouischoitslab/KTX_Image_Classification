@@ -34,3 +34,6 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 ### From left to right KTX-1, KTX-Sancheon, SRT, KTX-EUM 
 - #### Image Source: https://www.youtube.com/watch?v=pSFV4Nh2hJo
 
+![title](images/ktx_network.png)
+### Map of the entire high-speed rail network in South Korea 대한민국 고속철도망
+- #### Image Source: https://www.incheontoday.com/news/articleView.html?idxno=205643
