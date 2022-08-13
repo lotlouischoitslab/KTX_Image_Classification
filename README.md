@@ -101,3 +101,6 @@ Once the CNN model was built for image classification training with a given numb
 According to the plots above, the train accuracy is very close to the testing accuracy as the number of epochs gradually increases. Overall, the model has produced a relatively high training accuracy. The number of losses meaning the error between the actual image and the predicted image decreases as more number of epochs are given into the model. This means that the chance of predicting a given image dataset accurately is very high. 
 
 # Prediction
+
+![title](images/predicted_output.png)
+#### Figure 14. above shows the predicted output of each image data given into our model with the train type and the confidence score for each image
