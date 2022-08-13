@@ -116,3 +116,5 @@ This was the second part of the project. Datasets that include total passengers 
 - ##### availseats = Number of seats available
 
 $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
+
+This is the formula defined by both KTX and SRT companies and the utility rate datasets were already calculated and given in the raw data.
