@@ -3,7 +3,7 @@
 - ### Louis Sungwoo Cho (조성우)
 
 # Project Description
-This project is about image classifcation of the high-speed train locomotives in South Korea, analyzing and predicting KTX (Korea Train eXpress) (한국고속철도) and SRT (Super Rapid Train) (수도권고속철도) passenger ridership. Random image datasets were given into the neural network model for image classification training and testing and the combined passenger ridership datasets were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
+This project is about image classifcation of the high-speed train locomotives in South Korea, analyzing and predicting KTX (Korea Train eXpress) (한국고속철도) and SRT (Super Rapid Train) (수도권고속철도) passenger ridership. Random image datasets were given into the neural network model for image classification training and testing and the combined passenger ridership datasets used for analyzing and forecasting were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
