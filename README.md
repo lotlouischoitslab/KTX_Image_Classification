@@ -107,3 +107,6 @@ Once all the image datasets have been processed and the accuracy and loss score 
 #### Figure 14. above shows the predicted output of each image data given into our model with the train type and the confidence score for each image.
 
 From the image above, it is clearly evident that the predictor estimates the train class very accurately. The confidence is also very high for each results meaning that the results have turned out very well. For further improvements in this project, adding more samples to the model and increasing some train samples difficult to classify will be strongly considered. Overall, the model performed very well with all the high-speed train image datasets.
+
+# Passenger Ridership Analysis and Forecasting
+This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast passengers ridership trend and utility rate. 
