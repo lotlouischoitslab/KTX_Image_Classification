@@ -88,3 +88,15 @@ Finally after adding all the convolution and pooling layers, the entire 3D tenso
 #### Figure 11. above shows the visual implementation of the CNN model. 
 
 ##### Original Source for the CNN Explanation: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient.
+
+# Results
+Once the CNN model was built for image classification training with a given number of training steps also known as epochs set to 20, the accuracy score graph and the loss score graph with respect to each epoch step were plotted. 
+
+![title](images/accuracy.png)
+#### Figure 12. above shows the accuracy score of the CNN model with respect to the number of steps. 
+
+![title](images/loss.png)
+#### Figure 13. above shows the loss score of the CNN model with respect to the number of steps. 
+
+
+# Prediction
