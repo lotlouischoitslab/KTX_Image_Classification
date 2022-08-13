@@ -111,4 +111,8 @@ From the image above, it is clearly evident that the predictor estimates the tra
 # Passenger Ridership Analysis and Forecasting
 This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The utility rate (UR) formula is defined below:
 
-$$ UR\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i)^2 \ $$
+### Variables
+pass_num = Number of passengers
+avail_seats = Number of seats available
+
+$$ UR\ =\ \frac{pass_num}{avail_seats} * 100\ $$
