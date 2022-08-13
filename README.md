@@ -72,4 +72,7 @@ The convolution operation is then performed by splitting the 3 by 3 matrix into 
 ![title](images/cnn_matrix.gif)
 #### Figure 7. above shows the matrix operation of the convolution filter.
 
+![title](images/cnn_visual.gif)
+#### Figure 8. above shows the visualization of the  convolution input of the image.
+
 ##### Original Source for the CNN Explanation: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient.
