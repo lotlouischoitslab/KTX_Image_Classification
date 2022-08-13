@@ -37,3 +37,6 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 ![title](images/ktx_network.png)
 ### Map of the entire high-speed rail network in South Korea (대한민국 고속철도망)
 - #### Image Source: https://www.incheontoday.com/news/articleView.html?idxno=205643
+
+# Image Preparation
+Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
