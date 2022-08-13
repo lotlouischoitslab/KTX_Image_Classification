@@ -115,4 +115,4 @@ This was the second part of the project. Datasets that include total passengers 
 passnum = Number of passengers
 availseats = Number of seats available
 
-$$ UR\ =\ \frac{passnum}{availseats} \*\ 100% \ $$
+$$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \%\ \ $$
