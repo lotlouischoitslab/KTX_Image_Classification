@@ -40,3 +40,15 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 
 # Image Preparation
 Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
+
+![title](images/random_ktx_one.png)
+### Figure 1. above shows the 10 random KTX-1 images from the given image dataset.
+
+![title](images/random_ktx_eum.png)
+### Figure 2. above shows the 10 random KTX-EUM images from the given image dataset.
+
+![title](images/random_ktx_sancheon.png)
+### Figure 3. above shows the 10 random KTX-Sancheon images from the given image dataset.
+
+![title](images/random_srt.png)
+### Figure 4. above shows the 10 random SRT images from the given image dataset.
