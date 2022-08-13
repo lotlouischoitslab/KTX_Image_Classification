@@ -64,4 +64,12 @@ Convolutional Neural Network (CNN) model was used to classify the high-speed tra
 
 The model used for this project performs multiclass classification so the output is set to be softmax. But why is convolution so crucial in image classification? Convolution is a set of mathematical operations performed by the computer to merge two pieces of critical information from the image. A feature map for the images is produced using a 'convolution filter'. 
 
+![title](images/cnn_filter.png)
+#### Figure 6. above shows how the convolution filter produces the feature map.
+
+The convolution operation is then performed by splitting the 3 by 3 matrix into merged 3 by 3 matrix by doing an element-wise matrix multiplication and summing the total values. 
+
+![title](images/cnn_matrix.gif)
+#### Figure 7. above shows the matrix operation of the convolution filter.
+
 ##### Original Source for the CNN Explanation: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient.
