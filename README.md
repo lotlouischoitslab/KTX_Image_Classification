@@ -109,4 +109,6 @@ Once all the image datasets have been processed and the accuracy and loss score 
 From the image above, it is clearly evident that the predictor estimates the train class very accurately. The confidence is also very high for each results meaning that the results have turned out very well. For further improvements in this project, adding more samples to the model and increasing some train samples difficult to classify will be strongly considered. Overall, the model performed very well with all the high-speed train image datasets.
 
 # Passenger Ridership Analysis and Forecasting
-This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast passengers ridership trend and utility rate. 
+This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The utility rate (UR) formula is defined below:
+
+$$ UR\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i)^2 \ $$
