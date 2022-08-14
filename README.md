@@ -123,9 +123,12 @@ This is the formula defined by both KTX and SRT companies and the utility rate d
 #### Figure 15. above shows the number of passengers for each line and the total passengers for each month.
 
 ![title](data_explore/utility_analysis.png)
-#### Figure 16. above shows the utility rate for each line and the total utility rate for each month.
+#### Figure 16. above shows the utility rate for each line and the total utility rate of each train for each month.
 
-Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. Figures 15 and 16 show the plotted data respectively to the two different categories splitted from the raw data.
+![title](data_explore/passen_est.png)
+#### Figure 17. above shows the total passengers for each line and for each train for each month.
 
-![title](data_explore/utility_analysis.png)
-#### Figure 17. above shows the utility rate for each line and the total utility rate for each month.
+![title](data_explore/utility_est.png)
+#### Figure 18. above shows the utility rate for each line and the utility rate for each train for each month.
+
+Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. 
