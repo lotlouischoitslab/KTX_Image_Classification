@@ -1,4 +1,4 @@
-# KTX Classification Analysis
+# KTX Image Classification
 ## Contributors:
 - ### Louis Sungwoo Cho (조성우)
 
