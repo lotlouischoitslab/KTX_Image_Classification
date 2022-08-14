@@ -1,5 +1,5 @@
 # KTX Image Classification
-## Contributors:
+## Contributors: 
 - ### Louis Sungwoo Cho (조성우)
 
 # Project Description
