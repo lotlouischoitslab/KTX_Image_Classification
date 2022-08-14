@@ -110,8 +110,8 @@ This was the second part of the project. Datasets that include total passengers 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
 ### Utility Rate (UR) Formula:
-- ##### passnum = Number of passengers 
-- ##### availseats = Number of seats available
+- ##### passnum = number of passengers in thousands
+- ##### availseats = number of seats available
 
 $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
 
