@@ -150,7 +150,7 @@ However, the time-series forecasting model did go a little off with predicting t
 
 ![title](louis_seoul_station/signs.jpg)
 ## 대전, 동대구, 부산, 포항, 진주, 마산, 강릉, 동해 방면
-## To Daejeon, Dongdaegu, Busan, Pohang, Jinju, Masan, Gangneung, Donghae
+### To Daejeon, Dongdaegu, Busan, Pohang, Jinju, Masan, Gangneung, Donghae
 
 ## 익산, 광주송정, 목포, 여수EXPO 방면
 ## To Iksan, Gwangjusongjeong, Mokpo, Yeosu-EXPO
