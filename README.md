@@ -143,3 +143,5 @@ Once all the estimators have been added to approximate the trend for each graph,
 ![title](data_explore/utility_pred.png)
 #### Figure 19. above shows the predicted utility rate of each line until 2030.
 
+# Conclusive Remarks
+Overall, the convolutional neural network model used for image classification has performed very well classifying the 4 different types of Korean high-speed trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT with high confidence score. It is very evident that convolutional neural networks have strong computational power while producing very accurate results when classifying the images. More epochs and more layers overall improved the accuracy for this model in this project. However, the time-series forecasting model did go a little off with predicting the future passenger numbers on the Gyeongbu High-Speed Line. This is probably due to the sudden drop during the pandemic COVID-19 from 2020 to 2022 onwards and the fact the high-speed rail companies do not have all the datasets collected in 2022. To further improve predicting the passenger ridership trends, more passenger datasets will be collected in the following months and years.
