@@ -106,9 +106,10 @@ Once all the image datasets have been processed and the accuracy and loss score 
 From the image above, it is clearly evident that the predictor estimates the train class very accurately. The confidence is also very high for each results meaning that the results have turned out very well. Overall, the model performed very well with all the high-speed train image datasets.
 
 # Passenger Ridership Analysis
+This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The passenger ridership is represented in thousands.
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
-This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The utility rate (UR) formula is defined below:
 
+The utility rate (UR) formula is defined below:
 ### Variables
 - ##### passnum = Number of passengers
 - ##### availseats = Number of seats available
