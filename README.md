@@ -149,12 +149,12 @@ Overall, the convolutional neural network model used for image classification ha
 However, the time-series forecasting model did go a little off with predicting the future passenger numbers on the Gyeongbu High-Speed Line. This is probably due to the sudden drop during the COVID-19 pandemic from 2020 to 2022 onwards and the fact the high-speed rail companies do not have all the datasets collected in 2022. To further improve predicting the passenger ridership trends, more passenger datasets will be collected in the following months and years.
 
 ![title](louis_seoul_station/signs.jpg)
-### 대전, 동대구, 부산, 포항, 진주, 마산, 강릉, 동해 방면
-### Daejeon, Dongdaegu, Busan, Pohang, Jinju, Masan, Gangneung, Donghae
+## 대전, 동대구, 부산, 포항, 진주, 마산, 강릉, 동해 방면
+## Daejeon, Dongdaegu, Busan, Pohang, Jinju, Masan, Gangneung, Donghae
 
-### 익산, 광주송정, 목포, 여수EXPO 방면
-### Iksan, Gwangjusongjeong, Mokpo, Yeosu-EXPO
+## 익산, 광주송정, 목포, 여수EXPO 방면
+## Iksan, Gwangjusongjeong, Mokpo, Yeosu-EXPO
 
 ![title](louis_seoul_station/ktx_eum.jpg)
-## Have a fun trip everyone!
-## 즐거운 여행이 되세요!
+# Have a fun trip everyone!
+# 즐거운 여행이 되세요!
