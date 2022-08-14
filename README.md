@@ -150,3 +150,7 @@ However, the time-series forecasting model did go a little off with predicting t
 
 # Some Photos Taken at Seoul Station
 ![title](louis_seoul_station/signs.jpg)
+
+![title](louis_seoul_station/name.jpg)
+
+![title](louis_seoul_station/ktx_eum.jpg)
