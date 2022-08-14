@@ -98,7 +98,7 @@ The following section includes the information for each train class with their u
 ### Safety System: ATS, ATP, TVM-430
 ### Track Gauge: 1435 mm Standard Gauge
 
-### Information Sources:
+## Information Sources:
 - ##### https://en.wikipedia.org/wiki/KTX-I
 - ##### https://en.wikipedia.org/wiki/KTX-Sancheon
 - ##### https://en.wikipedia.org/wiki/Super_Rapid_Train
