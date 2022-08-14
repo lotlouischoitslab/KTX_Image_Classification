@@ -40,14 +40,68 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 # KTX-1
 ![title](images/ktx_one_info.png)
 
+##### Manufacturer: Alstom & Hyundai ROTEM
+##### Family: TGV
+##### Entered Service: April 2004
+##### Operator: KORAIL
+##### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
+##### Maximum Operating Speed: 305 km/h
+##### Maximum Design Speed: 330 km/h
+##### Electricity: 25 kV AC 60 Hz Catenary
+##### Current Collector: Pantograph
+##### Safety System: ATS, ATP, TVM-430
+##### Track Gauge: 1435 mm Standard Gauge
+
 # KTX-Sancheon (KTX-산천)
 ![title](images/ktx_sancheon_info.png)
+
+##### Manufacturer: Hyundai ROTEM
+##### Family: KTX
+##### Entered Service: March 2010
+##### Operator: KORAIL
+##### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
+##### Maximum Operating Speed: 305 km/h
+##### Maximum Design Speed: 330 km/h
+##### Electricity: 25 kV AC 60 Hz Catenary
+##### Current Collector: Pantograph
+##### Safety System: ATS, ATP, TVM-430
+##### Track Gauge: 1435 mm Standard Gauge
 
 # SRT
 ![title](images/srt_info.png)
 
+##### Manufacturer: Hyundai ROTEM
+##### Family: KTX
+##### Entered Service: December 2016
+##### Operator: KORAIL
+##### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
+##### Maximum Operating Speed: 305 km/h
+##### Maximum Design Speed: 330 km/h
+##### Electricity: 25 kV AC 60 Hz
+##### Current Collector: Pantograph
+##### Safety System: ATS, ATP, TVM-430
+##### Track Gauge: 1435 mm Standard Gauge
+
 # KTX-EUM (KTX-이음)
 ![title](images/ktx_eum_info.png)
+
+##### Manufacturer: Hyundai ROTEM
+##### Family: KTX
+##### Entered Service: January 2021
+##### Operator: KORAIL
+##### Lines Served: Gangneung, Yeongdong, Jungang, Jungbunaeryuk, Seohae (Planned)
+##### Maximum Operating Speed: 260 km/h
+##### Maximum Design Speed: 286 km/h
+##### Electricity: 25 kV AC 60 Hz Catenary
+##### Current Collector: Pantograph
+##### Safety System: ATS, ATP, TVM-430
+##### Track Gauge: 1435 mm Standard Gauge
+
+##### Information Source:
+- ##### https://en.wikipedia.org/wiki/KTX-I
+- ##### https://en.wikipedia.org/wiki/KTX-Sancheon
+- ##### https://en.wikipedia.org/wiki/Super_Rapid_Train
+- #####
 
 # Image Preparation
 Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
