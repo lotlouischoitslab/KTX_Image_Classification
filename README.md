@@ -38,16 +38,16 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 
 # High-Speed Train Information
 # KTX-1
-![title](images/ktx_one.png)
+![title](images/ktx_one_info.png)
 
 # KTX-Sancheon (KTX-산천)
-![title](images/ktx_sancheon.png)
+![title](images/ktx_sancheon_info.png)
 
 # SRT
-![title](images/srt_train.png)
+![title](images/srt_info.png)
 
 # KTX-EUM (KTX-이음)
-![title](images/ktx_eum.png)
+![title](images/ktx_eum_info.png)
 
 # Image Preparation
 Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
