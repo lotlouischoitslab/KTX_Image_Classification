@@ -3,7 +3,7 @@
 - ### Louis Sungwoo Cho (조성우)
 
 # Project Description
-This project is about image classifcation of the high-speed trains in South Korea, analyzing and predicting KTX (Korea Train eXpress) (한국고속철도) and SRT (Super Rapid Train) (수도권고속철도) passenger ridership. Random image datasets were given into the neural network model. Furthermore, the combined passenger ridership datasets used for analyzing and forecasting were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
+This project is about image classifcation of the high-speed trains in South Korea, analyzing and forecasting KTX (Korea Train eXpress) (한국고속철도) and SRT (Super Rapid Train) (수도권고속철도) passenger ridership and the utility rate. Random image datasets were given into the neural network model. Furthermore, the combined passenger ridership datasets used for analyzing and forecasting were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
@@ -28,7 +28,7 @@ This project is about image classifcation of the high-speed trains in South Kore
 - #### Image Source: https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000
 
 # Motivation
-South Korea first opened their high-speed rail network on April 1st, 2004 to make rail travel time more fast and convenient. When I first traveled to South Korea, my family introduced me to a new bullet train which took into service called KTX. I was excited to ride a high-speed train for the first time because U.S.A unfortunately still does not have bullet trains. After nearly 2 decades the first KTX line the Gyeongbu High-Speed Line (경부고속선) connecting Seoul to Busan opened, the high-speed rail network has expanded almost throughout the entire country including the Honam High-Speed Line (호남고속선) connecting Seoul to Gwangju-Songjeong to Mokpo, Suseo High-Speed Line or Sudogwon-High Speed Line (수서고속선/수도권고속선) connecting the south side of Seoul Suseo to Busan and Gwangju, Gyeongjeon Line (경전선) connecting Seoul to Masan to Jinju, Jeolla Line (전라선) connecting Seoul to Yeosu-EXPO, Donghae Line (동해선) connecting Seoul to Pohang, Gangneung Line (강릉선) also known as the 2018 Pyeongchang Olympics Line connecting Seoul to Gangneung, Yeongdong Line (영동선) connecting Seoul to Donghae, Jungang Line (중앙선) connecting Seoul to Andong (sections to Uiseong, Yeongcheon, Singyeongju, Taehwagang, Busan-Bujeon to be opened in December 2023), and the Jungbu-Naeryuk Line (중부내륙선) connecting Bubal to Chungju. As seen above, due to the continuing expansion of the South Korean high-speed train network, Hyundai ROTEM has designed many different types of locomotive to serve in various lines depending on their operational speed respectively. Due to each locomotive having unique features, I decided to create a deep learning model that can classify the 4 types of trains in operation: KTX-1, KTX-EUM, KTX-Sancheon, and SRT. 
+South Korea first opened their high-speed rail network on April 1st, 2004 to make rail travel time more fast and convenient. When I first traveled to South Korea, I still remember when I took KTX with my family for the first time when we went to Busan. I was excited to ride the high-speed train because the U.S does not have bullet trains which can travel as fast as the KTX trains. After nearly 2 decades the first KTX line the Gyeongbu High-Speed Line (경부고속선) connecting Seoul to Busan opened, the high-speed rail network has expanded almost throughout the entire country including the Honam High-Speed Line (호남고속선) connecting Seoul to Gwangjusongjeong to Mokpo, Suseo High-Speed Line or Sudogwon High-Speed Line (수서고속선/수도권고속선) connecting the south side of Seoul Suseo to Busan to Gwangju to Mokpo, Gyeongjeon Line (경전선) connecting Seoul to Masan to Jinju, Jeolla Line (전라선) connecting Seoul to Yeosu-EXPO, Donghae Line (동해선) connecting Seoul to Pohang, Gangneung Line (강릉선) also known as the 2018 Pyeongchang Olympics Line connecting Seoul to Gangneung, Yeongdong Line (영동선) connecting Seoul to Donghae, Jungang Line (중앙선) connecting Seoul to Andong (sections to Uiseong, Yeongcheon, Singyeongju, Taehwagang, Busan-Bujeon to be opened in December 2023), and the Jungbu-Naeryuk Line (중부내륙선) connecting Bubal to Chungju. As seen above, due to the continuing expansion of the South Korean high-speed train network, Hyundai ROTEM has designed many different types of variants to serve in various lines depending on their operational speed respectively. Due to each locomotive having unique features, I decided to create a deep learning model that can classify the 4 types of trains in operation: KTX-1, KTX-EUM, KTX-Sancheon, and SRT. 
 
 ![title](images/ktx.png)
 #### From left to right KTX-1, KTX-Sancheon, SRT, KTX-EUM (왼쪽부터 KTX-1, KTX-산천, SRT, KTX-이음)
@@ -60,7 +60,6 @@ Convolutional Neural Network (CNN) model was used to classify the high-speed tra
 
 ![title](images/cnn_process.png)
 #### Figure 5. above shows how the cnn model processes the image dataset with series of convolution and pooling before flattening out the image to predict the output.
-
 
 The model used for this project performs multiclass classification so the output is set to be softmax. But why is convolution so crucial in image classification? Convolution is a set of mathematical operations performed by the computer to merge two pieces of critical information from the image. A feature map for the images is produced using a 'convolution filter'. 
 
@@ -117,7 +116,7 @@ This was the second part of the project. Datasets that include total passengers 
 
 $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
 
-This is the formula defined by both KTX and SRT companies and the utility rate datasets were already calculated and given in the raw data so no extra work had to be done to compute the UR value for each high-speed line. 
+This is the formula defined by both KTX and SRT companies and the utility rate datasets were already calculated and given in the raw data so no extra work had to be done to compute the UR value for each high-speed train line. 
 
 # Data Visualization
 
@@ -138,10 +137,10 @@ Because there are too many variables to plot in one graph from the raw data, two
 Once all the estimators have been added to approximate the trend for each graph, time-series forecasting was performed to predict future data using the trained datasets. The results were then plotted below.
 
 ![title](data_explore/passen_pred.png)
-#### Figure 18. above shows the predicted number of passengers of each line until 2030.
+#### Figure 19. above shows the predicted number of passengers of each line until 2030.
 
 ![title](data_explore/utility_pred.png)
-#### Figure 19. above shows the predicted utility rate of each line until 2030.
+#### Figure 20. above shows the predicted utility rate of each line until 2030.
 
 # Conclusive Remarks
 Overall, the convolutional neural network model used for image classification has performed very well classifying the 4 different types of Korean high-speed trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT with high confidence score. It is very evident that convolutional neural networks have strong computational power while producing very accurate results when classifying the images. More epochs and more layers overall improved the accuracy for this model in this project. For further improvements in image classification, adding more complex samples to the model will be strongly considered. 
