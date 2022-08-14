@@ -119,6 +119,10 @@ $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
 
 This is the formula defined by both KTX and SRT companies and the utility rate datasets were already calculated and given in the raw data so no extra work had to be done to compute the UR value for each high-speed line. 
 
+# Data Visualization
+
+Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. 
+
 ![title](data_explore/passen_analysis.png)
 #### Figure 15. above shows the number of passengers for each line and the total passengers for each month.
 
@@ -131,4 +135,4 @@ This is the formula defined by both KTX and SRT companies and the utility rate d
 ![title](data_explore/utility_est.png)
 #### Figure 18. above shows the utility rate for each line and the utility rate for each train for each month.
 
-Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. 
+
