@@ -155,6 +155,6 @@ However, the time-series forecasting model did go a little off with predicting t
 ## 익산, 광주송정, 목포, 여수EXPO 방면
 ## Iksan, Gwangjusongjeong, Mokpo, Yeosu-EXPO
 
-![title](louis_seoul_station/ktx_eum.jpg)
+![title](louis_seoul_station/ktx_eum.png)
 # Have a fun trip everyone!
 # 즐거운 여행이 되세요!
