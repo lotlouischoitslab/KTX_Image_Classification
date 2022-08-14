@@ -109,8 +109,8 @@ From the image above, it is clearly evident that the predictor estimates the tra
 This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The passenger ridership is represented in thousands.
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
-The utility rate (UR) formula is defined below:
-### Variables
+### Utility Rate (UR) Formula:
+#### Variables:
 - ##### passnum = Number of passengers
 - ##### availseats = Number of seats available
 
