@@ -37,7 +37,7 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 - #### Image Source: https://www.incheontoday.com/news/articleView.html?idxno=205643
 
 # High-Speed Train Information
-The following section includes the information for each train class with their unique features with respect to their images.
+The following section includes the information for each train with their vehicle specifications.
 # KTX-1
 ![title](images/ktx_one_info.png)
 
