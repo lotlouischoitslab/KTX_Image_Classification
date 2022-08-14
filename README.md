@@ -5,8 +5,6 @@
 # Project Description
 This project is about image classifcation of the high-speed trains in South Korea, analyzing and forecasting KTX (Korea Train eXpress) (한국고속철도) and SRT (Super Rapid Train) (수도권고속철도) passenger ridership and the utility rate. Random image datasets were given into the neural network model. Furthermore, the combined passenger ridership datasets used for analyzing and forecasting were acquired from KORAIL (한국철도공사) and SRT (수서고속철도주식회사). 
 
-- #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
-
 ![title](images/ktx_one.png)
 ### KTX-1 the original French TGV model high-speed train approaching a station.
 ### 역으로 들어오는 프랑스에서 제작한 TGV 모델 KTX-1 고속열차.
@@ -107,7 +105,8 @@ Once all the image datasets have been processed and the accuracy and loss score 
 
 From the image above, it is clearly evident that the predictor estimates the train class very accurately. The confidence is also very high for each results meaning that the results have turned out very well. Overall, the model performed very well with all the high-speed train image datasets.
 
-# Passenger Ridership Analysis and Forecasting
+# Passenger Ridership Analysis
+- #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The utility rate (UR) formula is defined below:
 
 ### Variables
@@ -118,7 +117,7 @@ $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
 
 This is the formula defined by both KTX and SRT companies and the utility rate datasets were already calculated and given in the raw data so no extra work had to be done to compute the UR value for each high-speed train line. 
 
-# Data Visualization
+# Data Visualization and Forecasting
 
 Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. 
 
