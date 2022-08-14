@@ -139,6 +139,7 @@ Once all the estimators have been added to approximate the trend for each graph,
 #### Figure 19. above shows the predicted number of passengers of each line until 2030.
 
 ![title](data_explore/utility_pred.png)
+![title](data_explore/utility_pred.png)
 #### Figure 20. above shows the predicted utility rate of each line until 2030.
 
 # Conclusive Remarks
