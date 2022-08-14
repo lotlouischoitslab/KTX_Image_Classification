@@ -148,9 +148,7 @@ Overall, the convolutional neural network model used for image classification ha
 
 However, the time-series forecasting model did go a little off with predicting the future passenger numbers on the Gyeongbu High-Speed Line. This is probably due to the sudden drop during the COVID-19 pandemic from 2020 to 2022 onwards and the fact the high-speed rail companies do not have all the datasets collected in 2022. To further improve predicting the passenger ridership trends, more passenger datasets will be collected in the following months and years.
 
-# Some Photos Taken at Seoul Station
 ![title](louis_seoul_station/signs.jpg)
 
-![title](louis_seoul_station/name.jpg)
 
 ![title](louis_seoul_station/ktx_eum.jpg)
