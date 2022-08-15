@@ -90,7 +90,7 @@ The following section includes the information for each train with their vehicle
 ### Family: KTX
 ### Entered Service: January 2021
 ### Operator: KORAIL
-### Lines Served: Gangneung, Yeongdong, Jungang, Jungbunaeryuk, Seohae (Planned)
+### Lines Served: Gangneung, Jungang, Jungbunaeryuk, Seohae (Planned)
 ### Maximum Operating Speed: 260 km/h
 ### Maximum Design Speed: 286 km/h
 ### Electricity: 25 kV AC 60 Hz Catenary
