@@ -7,7 +7,7 @@ This project is about image classifcation of the high-speed trains in South Kore
 
 ![title](images/ktx_one.png)
 ### KTX-1 the original French TGV model high-speed train approaching a station.<br/>
-### 역으로 들어오는 프랑스에서 제작한 TGV 모델 KTX-1 고속열차.**
+### 역으로 들어오는 프랑스에서 제작한 TGV 모델 KTX-1 고속열차.
 - #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
 
 ![title](images/ktx_sancheon.png)
