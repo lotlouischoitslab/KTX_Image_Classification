@@ -56,47 +56,47 @@ Track Gauge: 1435 mm Standard Gauge<br/>
 # KTX-Sancheon (KTX-산천)
 ![title](images/ktx_sancheon_info.png)
 
-### Manufacturer: Hyundai ROTEM
-### Family: KTX
-### Entered Service: March 2010
-### Operator: KORAIL
-### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
-### Maximum Operating Speed: 305 km/h
-### Maximum Design Speed: 330 km/h
-### Electricity: 25 kV AC 60 Hz Catenary
-### Current Collector: Pantograph
-### Safety System: ATS, ATP, TVM-430
-### Track Gauge: 1435 mm Standard Gauge
+Manufacturer: Hyundai ROTEM<br/>
+Family: KTX<br/>
+Entered Service: March 2010<br/>
+Operator: KORAIL<br/>
+Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae<br/>
+Maximum Operating Speed: 305 km/h<br/>
+Maximum Design Speed: 330 km/h<br/>
+Electricity: 25 kV AC 60 Hz Catenary<br/>
+Current Collector: Pantograph<br/>
+Safety System: ATS, ATP, TVM-430<br/>
+Track Gauge: 1435 mm Standard Gauge<br/>
 
 # SRT
 ![title](images/srt_info.png)
 
-### Manufacturer: Hyundai ROTEM
-### Family: KTX
-### Entered Service: December 2016
-### Operator: SR Corporation
-### Lines Served: Suseo HSR, Gyeongbu HSR, Honam HSR
-### Maximum Operating Speed: 305 km/h
-### Maximum Design Speed: 330 km/h
-### Electricity: 25 kV AC 60 Hz
-### Current Collector: Pantograph
-### Safety System: ATS, ATP, TVM-430
-### Track Gauge: 1435 mm Standard Gauge
+Manufacturer: Hyundai ROTEM<br/>
+Family: KTX<br/>
+Entered Service: December 2016<br/>
+Operator: SR Corporation<br/>
+Lines Served: Suseo HSR, Gyeongbu HSR, Honam HSR<br/>
+Maximum Operating Speed: 305 km/h<br/>
+Maximum Design Speed: 330 km/h<br/>
+Electricity: 25 kV AC 60 Hz<br/>
+Current Collector: Pantograph<br/>
+Safety System: ATS, ATP, TVM-430<br/>
+Track Gauge: 1435 mm Standard Gauge<br/>
 
 # KTX-EUM (KTX-이음)
 ![title](images/ktx_eum_info.png)
 
-### Manufacturer: Hyundai ROTEM
-### Family: KTX
-### Entered Service: January 2021
-### Operator: KORAIL
-### Lines Served: Gangneung, Jungang, Jungbunaeryuk, Seohae (Planned)
-### Maximum Operating Speed: 260 km/h
-### Maximum Design Speed: 286 km/h
-### Electricity: 25 kV AC 60 Hz Catenary
-### Current Collector: Pantograph
-### Safety System: ATS, ATP, TVM-430
-### Track Gauge: 1435 mm Standard Gauge
+Manufacturer: Hyundai ROTEM<br/>
+Family: KTX<br/>
+Entered Service: January 2021<br/>
+Operator: KORAIL<br/>
+Lines Served: Gangneung, Jungang, Jungbunaeryuk, Seohae (Planned)<br/>
+Maximum Operating Speed: 260 km/h<br/>
+Maximum Design Speed: 286 km/h<br/>
+Electricity: 25 kV AC 60 Hz Catenary<br/>
+Current Collector: Pantograph<br/>
+Safety System: ATS, ATP, TVM-430<br/>
+Track Gauge: 1435 mm Standard Gauge<br/>
 
 ## Information Sources:
 - ##### https://en.wikipedia.org/wiki/KTX-I
