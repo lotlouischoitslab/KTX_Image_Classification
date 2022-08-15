@@ -37,7 +37,7 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 - #### Image Source: https://www.incheontoday.com/news/articleView.html?idxno=205643
 
 # High-Speed Train Information
-The following section includes the information for each train with their vehicle specifications.
+The following section includes the information for each train with their vehicle specifications. KTX stands for Korea Train eXpress and SRT stands for Super Rapid Train.
 # KTX-1
 ![title](images/ktx_one_info.png)
 
@@ -74,7 +74,7 @@ The following section includes the information for each train with their vehicle
 ### Manufacturer: Hyundai ROTEM
 ### Family: KTX
 ### Entered Service: December 2016
-### Operator: KORAIL
+### Operator: SR Corporation
 ### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
 ### Maximum Operating Speed: 305 km/h
 ### Maximum Design Speed: 330 km/h
