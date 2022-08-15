@@ -43,16 +43,16 @@ The following section includes the information for each train with their vehicle
 
 Manufacturer: Alstom & Hyundai ROTEM
 
-Family: TGV
-<!-- ##### Entered Service: April 2004
-##### Operator: KORAIL
-##### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae
-##### Maximum Operating Speed: 305 km/h
-##### Maximum Design Speed: 330 km/h
-##### Electricity: 25 kV AC 60 Hz Catenary
-##### Current Collector: Pantograph
-##### Safety System: ATS, ATP, TVM-430
-##### Track Gauge: 1435 mm Standard Gauge -->
+### Family: TGV <br/>
+### Entered Service: April 2004 <br/>
+### Operator: KORAIL <br/>
+### Lines Served: Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla, Donghae <br/>
+### Maximum Operating Speed: 305 km/h <br/>
+### Maximum Design Speed: 330 km/h <br/>
+### Electricity: 25 kV AC 60 Hz Catenary <br/>
+### Current Collector: Pantograph <br/>
+### Safety System: ATS, ATP, TVM-430 <br/>
+### Track Gauge: 1435 mm Standard Gauge <br/>
 
 # KTX-Sancheon (KTX-산천)
 ![title](images/ktx_sancheon_info.png)
