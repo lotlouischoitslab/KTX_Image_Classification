@@ -75,7 +75,7 @@ The following section includes the information for each train with their vehicle
 ### Family: KTX
 ### Entered Service: December 2016
 ### Operator: SR Corporation
-### Lines Served: Suseo/Sudogwon HSR, Gyeongbu HSR, Honam HSR
+### Lines Served: Suseo HSR, Gyeongbu HSR, Honam HSR
 ### Maximum Operating Speed: 305 km/h
 ### Maximum Design Speed: 330 km/h
 ### Electricity: 25 kV AC 60 Hz
