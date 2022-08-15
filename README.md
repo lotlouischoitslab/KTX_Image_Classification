@@ -178,7 +178,7 @@ This was the second part of the project. Datasets that include total passengers 
 - #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
 
 ### Utility Rate (UR) Formula:
-- ##### passnum = number of passengers in thousands
+- ##### passnum = actual number of passengers in thousands who boarded the train
 - ##### availseats = number of seats available
 
 $$ UR\ =\ \frac{passnum}{availseats} \*\ 100 \\% \ $$
