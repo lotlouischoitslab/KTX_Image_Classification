@@ -67,8 +67,7 @@ Maximum Design Speed: 330 km/h<br/>
 Electricity: 25 kV AC 60 Hz Catenary<br/>
 Current Collector: Pantograph<br/>
 Safety System: ATS, ATP, TVM-430<br/>
-Track Gauge: 1435 mm Standard Gauge<br/>
-**
+Track Gauge: 1435 mm Standard Gauge<br/>**
 
 # SRT
 ![title](images/srt_info.png)
