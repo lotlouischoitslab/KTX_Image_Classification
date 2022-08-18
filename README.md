@@ -11,19 +11,19 @@ This project is about image classifcation of the high-speed trains in South Kore
 - #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
 
 ![title](images/ktx_sancheon.png)
-**KTX-Sancheon model developed by Hyundai Rotem traveling along the Gangneung Line.<br/>
+**KTX-Sancheon model developed by Hyundai ROTEM traveling along the Gangneung Line.<br/>
 강릉선을 고속으로 주행하는 현대로템에서 제작한 KTX-산천 고속열차.**
 - ##### Image Source: https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/
 
 ![title](images/ktx_eum.png)
 
-**KTX-EUM model developed by Hyundai Rotem passing Yangsu Bridge of the Jungang Line.<br/>
+**KTX-EUM model developed by Hyundai ROTEM passing Yangsu Bridge of the Jungang Line.<br/>
 중앙선 양수철교 구간을 고속으로 통과하는 현대로템에서 제작한 KTX-이음 고속열차.**
 - #### Image Source: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=69229
 
 ![title](images/srt_train.png)
 
-**SRT train developed by Hyundai Rotem passing Pyeongtaek Jije Station. <br/>
+**SRT train developed by Hyundai ROTEM passing Pyeongtaek Jije Station. <br/>
 평택지제역을 통과하는 현대로템에서 제작한 SRT 고속열차.**
 - #### Image Source: https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000
 
