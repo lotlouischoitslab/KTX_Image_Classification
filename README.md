@@ -8,7 +8,7 @@ This project is about image classifcation of the high-speed trains in South Kore
 ![title](images/ktx_one.png)
 **KTX-1 the original French TGV model high-speed train approaching a station.<br/>
 역으로 들어오는 프랑스에서 제작한 TGV 모델 KTX-1 고속열차.**
-- #### Image Source: https://en.wikipedia.org/wiki/Korea_Train_Express
+- #### Image Source: [Korea Train Express Wikipedia](https://en.wikipedia.org/wiki/Korea_Train_Express)
 
 ![title](images/ktx_sancheon.png)
 **KTX-Sancheon model developed by Hyundai ROTEM traveling along the Gangneung Line.<br/>
@@ -19,20 +19,20 @@ This project is about image classifcation of the high-speed trains in South Kore
 
 **KTX-EUM model developed by Hyundai ROTEM passing Yangsu Bridge of the Jungang Line.<br/>
 중앙선 양수철교 구간을 고속으로 통과하는 현대로템에서 제작한 KTX-이음 고속열차.**
-- #### Image Source: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=69229
+- #### Image Source: [Greenpostkorea](http://www.greenpostkorea.co.kr/news/articleView.html?idxno=69229)
 
 ![title](images/srt_train.png)
 
 **SRT train developed by Hyundai ROTEM passing Pyeongtaek Jije Station. <br/>
 평택지제역을 통과하는 현대로템에서 제작한 SRT 고속열차.**
-- #### Image Source: https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000
+- #### Image Source: [Srail Photo](https://www.srail.or.kr/cms/article/view.do?postNo=39&pageId=KR0502000000)
 
 # Motivation
 South Korea first opened their high-speed rail network on April 1st, 2004 to make rail travel time more fast and convenient. When I first traveled to South Korea, I still remember when I took KTX with my family for the first time when we went to Busan. I was excited to ride the high-speed train because the U.S does not have bullet trains which can travel as fast as the KTX trains. After nearly 2 decades the first KTX line the Gyeongbu High-Speed Line (경부고속선) connecting Seoul to Busan opened, the high-speed rail network has expanded almost throughout the entire country including the Honam High-Speed Line (호남고속선) connecting Seoul to Gwangjusongjeong to Mokpo, Suseo High-Speed Line or Sudogwon High-Speed Line (수서고속선/수도권고속선) connecting the south side of Seoul Suseo to Busan to Gwangju to Mokpo, Gyeongjeon Line (경전선) connecting Seoul to Masan to Jinju, Jeolla Line (전라선) connecting Seoul to Yeosu-EXPO, Donghae Line (동해선) connecting Seoul to Pohang, Gangneung Line (강릉선) also known as the 2018 Pyeongchang Olympics Line connecting Seoul to Gangneung, Yeongdong Line (영동선) connecting Seoul to Donghae, Jungang Line (중앙선) connecting Seoul to Andong (sections to Uiseong, Yeongcheon, Singyeongju, Taehwagang, Busan-Bujeon to be opened in December 2023), and the Jungbunaeryuk Line (중부내륙선) connecting Bubal to Chungju. As seen above, due to the continuing expansion of the South Korean high-speed train network, Hyundai ROTEM has designed many different types of variants to serve in various lines depending on their operational speed respectively. Due to each locomotive having unique features, I decided to create a deep learning model that can classify the 4 types of trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT. 
 
 ![title](images/ktx.png)
 #### From left to right KTX-1, KTX-Sancheon, SRT, KTX-EUM (왼쪽부터 KTX-1, KTX-산천, SRT, KTX-이음)
-- #### Image Source: https://www.youtube.com/watch?v=pSFV4Nh2hJo
+- #### Image Source: [KTX by years](https://www.youtube.com/watch?v=pSFV4Nh2hJo)
 
 ![title](images/ktx_network.png)
 ### Map of the entire high-speed rail network in South Korea (대한민국 고속철도망)
@@ -55,7 +55,7 @@ Current Collector: Pantograph<br/>
 Safety System: ATS, ATP, TVM-430<br/>
 Track Gauge: 1435 mm Standard Gauge<br/>**
 
-# KTX-Sancheon (KTX-산천)
+# KTX-Sancheon KTX-산천
 ![title](images/ktx_sancheon_info.png)
 
 **Manufacturer: Hyundai ROTEM<br/>
@@ -85,7 +85,7 @@ Current Collector: Pantograph<br/>
 Safety System: ATS, ATP, TVM-430<br/>
 Track Gauge: 1435 mm Standard Gauge<br/>**
 
-# KTX-EUM (KTX-이음)
+# KTX-EUM KTX-이음
 ![title](images/ktx_eum_info.png)
 
 **Manufacturer: Hyundai ROTEM<br/>
@@ -101,10 +101,10 @@ Safety System: ATS, ATP, TVM-430<br/>
 Track Gauge: 1435 mm Standard Gauge<br/>**
 
 ## Information Sources:
-- ##### https://en.wikipedia.org/wiki/KTX-I
-- ##### https://en.wikipedia.org/wiki/KTX-Sancheon
-- ##### https://en.wikipedia.org/wiki/Super_Rapid_Train
-- ##### https://en.wikipedia.org/wiki/KTX-Eum
+- ##### [KTX-1](https://en.wikipedia.org/wiki/KTX-I)
+- ##### [KTX-Sancheon](https://en.wikipedia.org/wiki/KTX-Sancheon)
+- ##### [SRT](https://en.wikipedia.org/wiki/Super_Rapid_Train)
+- ##### [KTX-EUM](https://en.wikipedia.org/wiki/KTX-Eum)
 
 # Image Preparation
 Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
@@ -154,7 +154,7 @@ Finally after adding all the convolution and pooling layers, the entire 3D tenso
 ![title](images/cnn_imp.png)
 #### Figure 11. above shows the visual implementation of the CNN model. 
 
-##### Original Source for the CNN Explanation: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient.
+##### Original Source for the CNN Explanation: [Towarddatascience Applied Deep Learning](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=The%20main%20advantage%20of%20CNN,CNN%20is%20also%20computationally%20efficient)
 
 # Results
 Once the CNN model was built for image classification training with a given number of training steps also known as epochs set to 20, the accuracy score graph and the loss score graph with respect to each epoch step were plotted. 
@@ -177,7 +177,7 @@ From the image above, it is clearly evident that the predictor estimates the tra
 
 # Passenger Ridership Analysis
 This was the second part of the project. Datasets that include total passengers of each high-speed line and utility rate acquired from KTX and SRT were used to analyze and forecast total passengers ridership and utility rate. The number of passengers is represented in thousands.
-- #### Dataset Source: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252
+- #### Dataset Source: [Index.go.kr KTX Data](https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1252)
 
 ### Utility Rate (UR) Formula:
 - ##### passnum = actual number of passengers in thousands who boarded the train
