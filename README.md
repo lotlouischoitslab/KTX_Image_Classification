@@ -101,10 +101,10 @@ Safety System: ATS, ATP, TVM-430<br/>
 Track Gauge: 1435 mm Standard Gauge<br/>**
 
 ## Information Sources:
-- ##### [KTX-1](https://en.wikipedia.org/wiki/KTX-I)
-- ##### [KTX-Sancheon](https://en.wikipedia.org/wiki/KTX-Sancheon)
-- ##### [SRT](https://en.wikipedia.org/wiki/Super_Rapid_Train)
-- ##### [KTX-EUM](https://en.wikipedia.org/wiki/KTX-Eum)
+- ##### [KTX-1 Wikipedia Article](https://en.wikipedia.org/wiki/KTX-I)
+- ##### [KTX-Sancheon Wikipedia Article](https://en.wikipedia.org/wiki/KTX-Sancheon)
+- ##### [SRT Wikipedia Article](https://en.wikipedia.org/wiki/Super_Rapid_Train)
+- ##### [KTX-EUM Wikipedia Article](https://en.wikipedia.org/wiki/KTX-Eum)
 
 # Image Preparation
 Random South Korean high-speed train image datasets were used to train the neural network model for image classification. 40 files were then split into 4 categories with each category having 10 images of the same class. 
