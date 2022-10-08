@@ -13,7 +13,7 @@ This project is about image classifcation of the high-speed trains in South Kore
 ![title](images/ktx_sancheon.png)
 **KTX-Sancheon model developed by Hyundai ROTEM traveling along the Gangneung Line.<br/>
 강릉선을 고속으로 주행하는 현대로템에서 제작한 KTX-산천 고속열차.**
-- ##### Image Source: https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/
+- ##### Image Source: [archyworldys KTX-EUM](https://www.archyworldys.com/only-56-minutes-from-cheongnyangni-to-jecheon-the-faster-and-strongerbullet-train-comes/)
 
 ![title](images/ktx_eum.png)
 
