@@ -36,7 +36,7 @@ South Korea first opened their high-speed rail network on April 1st, 2004 to mak
 
 ![title](images/ktx_network.png)
 ### Map of the entire high-speed rail network in South Korea (대한민국 고속철도망)
-- #### Image Source: https://www.incheontoday.com/news/articleView.html?idxno=205643
+- #### Image Source: [Incheon Today KTX Routes](https://www.incheontoday.com/news/articleView.html?idxno=205643)
 
 # High-Speed Train Information
 The following section includes the information for each train with their vehicle specifications. KTX stands for Korea Train eXpress and SRT stands for Super Rapid Train.
