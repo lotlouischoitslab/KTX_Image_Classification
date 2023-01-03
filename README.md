@@ -226,6 +226,9 @@ Because there are too many variables to plot in one graph from the raw data, two
 #### Forecasted KTX Utility Rate
 ![title](data_explore/utility/ktx_utility_forecast.png)
 
+#### Forecasted SRT Utility Rate
+![title](data_explore/utility/srt_utility_forecast.png)
+
 #### Forecasted KTX Gyeongbu HSR Utility Rate
 ![title](data_explore/utility/ktx_gyeongbu_utility_forecast.png)
 
