@@ -200,16 +200,12 @@ Because there are too many variables to plot in one graph from the raw data, two
 ![title](data_explore/passen_est.png)
 #### Figure 17. above shows the total passengers for each line and for each train for each month.
 
-![title](data_explore/utility_est.png)
-#### Figure 18. above shows the utility rate for each line and the utility rate for each train for each month.
-
-Once all the estimators have been added to approximate the trend for each graph, time-series forecasting was performed to predict future data using the trained datasets. The results were then plotted below.
 
 ![title](data_explore/passen_pred.png)
-#### Figure 19. above shows the predicted number of passengers of each line until 2030.
+#### Figure 18. above shows the forecasted passenger volune for each line until 2030.
 
 ![title](data_explore/utility_pred.png)
-#### Figure 20. above shows the predicted utility rate of each line until 2030.
+#### Figure 19. above shows the predicted utility rate of each line until 2030.
 
 # Conclusive Remarks
 Overall, the convolutional neural network model used for image classification has performed very well classifying the 4 different types of Korean high-speed trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT with high confidence score. It is very evident that convolutional neural networks have strong computational power while producing accurate results when classifying the images. More epochs and more layers overall improved the accuracy for this model. For further improvements in image classification, adding more complex samples to the model will be considered. 
