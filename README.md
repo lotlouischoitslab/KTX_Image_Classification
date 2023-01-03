@@ -223,7 +223,31 @@ Because there are too many variables to plot in one graph from the raw data, two
 
 #### Figure 17. above shows the forecasted passenger volumes until 2030.
 
-![title](data_explore/utility_predictions.png) 
+#### Forecasted KTX Utility Rate
+![title](data_explore/passengers/ktx_utility_forecast.png)
+
+#### Forecasted KTX Gyeongbu HSR Utility Rate
+![title](data_explore/passengers/ktx_gyeongbu_utility_forecast.png)
+
+#### Forecasted SRT Gyeongbu HSR Utility Rate
+![title](data_explore/passengers/srt_gyeongbu_utility_forecast.png)
+
+#### Forecasted KTX Honam HSR Utility Rate
+![title](data_explore/passengers/ktx_honam_utility_forecast.png)
+
+#### Forecasted SRT Honam HSR Utility Rate
+![title](data_explore/passengers/srt_honam_utility_forecast.png)
+
+#### Forecasted KTX Gyeongjeon Line Utility Rate
+![title](data_explore/passengers/ktx_gyeongjeon_utility_forecast.png)
+
+#### Forecasted KTX Jeolla Line Utility Rate
+![title](data_explore/passengers/ktx_jeolla_utility_forecast.png)
+
+#### Forecasted KTX Donghae Line Utility Rate
+![title](data_explore/passengers/ktx_donghae_utility_forecast.png)
+
+
 #### Figure 18. above shows the forecasted utility rate for the number of passengers for the total KTX and SRT passengers, KTX Gyeongbu HSR, SRT Gyeongbu HSR, KTX Honam HSR, SRT Honam HSR, KTX Gyeongjeon, KTX Jeolla and KTX Donghae Lines respectively until 2030.
 
 # Conclusive Remarks
