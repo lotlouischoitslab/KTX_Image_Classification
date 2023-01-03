@@ -224,31 +224,31 @@ Because there are too many variables to plot in one graph from the raw data, two
 #### Figure 17. above shows the forecasted passenger volumes until 2030.
 
 #### Forecasted KTX Utility Rate
-![title](data_explore/passengers/ktx_utility_forecast.png)
+![title](data_explore/utility/ktx_utility_forecast.png)
 
 #### Forecasted KTX Gyeongbu HSR Utility Rate
-![title](data_explore/passengers/ktx_gyeongbu_utility_forecast.png)
+![title](data_explore/utility/ktx_gyeongbu_utility_forecast.png)
 
 #### Forecasted SRT Gyeongbu HSR Utility Rate
-![title](data_explore/passengers/srt_gyeongbu_utility_forecast.png)
+![title](data_explore/utility/srt_gyeongbu_utility_forecast.png)
 
 #### Forecasted KTX Honam HSR Utility Rate
-![title](data_explore/passengers/ktx_honam_utility_forecast.png)
+![title](data_explore/utility/ktx_honam_utility_forecast.png)
 
 #### Forecasted SRT Honam HSR Utility Rate
-![title](data_explore/passengers/srt_honam_utility_forecast.png)
+![title](data_explore/utility/srt_honam_utility_forecast.png)
 
 #### Forecasted KTX Gyeongjeon Line Utility Rate
-![title](data_explore/passengers/ktx_gyeongjeon_utility_forecast.png)
+![title](data_explore/utility/ktx_gyeongjeon_utility_forecast.png)
 
 #### Forecasted KTX Jeolla Line Utility Rate
-![title](data_explore/passengers/ktx_jeolla_utility_forecast.png)
+![title](data_explore/utility/ktx_jeolla_utility_forecast.png)
 
 #### Forecasted KTX Donghae Line Utility Rate
-![title](data_explore/passengers/ktx_donghae_utility_forecast.png)
+![title](data_explore/utility/ktx_donghae_utility_forecast.png)
 
 
-#### Figure 18. above shows the forecasted utility rate for the number of passengers for the total KTX and SRT passengers, KTX Gyeongbu HSR, SRT Gyeongbu HSR, KTX Honam HSR, SRT Honam HSR, KTX Gyeongjeon, KTX Jeolla and KTX Donghae Lines respectively until 2030.
+#### Figure 18. above shows the forecasted utility rates respectively until 2030.
 
 # Conclusive Remarks
 Overall, the convolutional neural network model used for image classification has performed very well classifying the 4 different types of Korean high-speed trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT with high confidence score. It is very evident that convolutional neural networks have strong computational power while producing accurate results when classifying the images. More epochs and more layers overall improved the accuracy for this model. For further improvements in image classification, adding more complex samples to the model will be considered. 
