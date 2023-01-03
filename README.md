@@ -200,7 +200,7 @@ Because there are too many variables to plot in one graph from the raw data, two
 ![title](data_explore/passen_pred.png)
 #### Figure 17. above shows the forecasted passenger volune for each line until 2030.
 
-![title](data_explore/utility_pred.png)
+![title](data_explore/utility_pred.png) 
 #### Figure 18. above shows the predicted utility rate of each line until 2030.
 
 # Conclusive Remarks
