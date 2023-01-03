@@ -191,17 +191,25 @@ This is the formula defined by both KTX and SRT companies and the utility rate d
 
 Because there are too many variables to plot in one graph from the raw data, two new dataframes have been created to analyze and forecast the total number of passengers on each line and utility rate. 
 
-![title](data_explore/passen_analysis.png)
-#### Figure 15. above shows the number of passengers for each line and the total passengers for each month.
+![title](data_explore/passengers/passen_analysis.png)
+#### Figure 15. above shows the number of passengers for the total and the total passengers for each month.
 
-![title](data_explore/utility_analysis.png)
+![title](data_explore/utility/utility_analysis.png)
 #### Figure 16. above shows the utility rate for each line and the total utility rate of each train for each month.
 
-![title](data_explore/passen_predictions.png)
-#### Figure 17. above shows the forecasted passenger volune for each line until 2030.
+![title](data_explore/passengers/total_passen_pred.png)
+![title](data_explore/passengers/ktx_gyeongbu_passen_pred.png)
+![title](data_explore/passengers/srt_gyeongbu_passen_pred.png)
+![title](data_explore/passengers/ktx_honam_passen_pred.png)
+![title](data_explore/passengers/srt_honam_passen_pred.png)
+![title](data_explore/passengers/ktx_gyeongjeon_passen_pred.png)
+![title](data_explore/passengers/ktx_jeolla_pred.png)
+![title](data_explore/passengers/ktx_donghae_passen_pred.png)
+
+#### Figure 17. above shows the forecasted passenger volume for the number of passengers for the total KTX and SRT passengers, KTX Gyeongbu HSR, SRT Gyeongbu HSR, KTX Honam HSR, SRT Honam HSR, KTX Gyeongjeon, KTX Jeolla and KTX Donghae Lines respectively until 2030.
 
 ![title](data_explore/utility_predictions.png) 
-#### Figure 18. above shows the predicted utility rate of each line until 2030.
+#### Figure 18. above shows the forecasted utility rate for the number of passengers for the total KTX and SRT passengers, KTX Gyeongbu HSR, SRT Gyeongbu HSR, KTX Honam HSR, SRT Honam HSR, KTX Gyeongjeon, KTX Jeolla and KTX Donghae Lines respectively until 2030.
 
 # Conclusive Remarks
 Overall, the convolutional neural network model used for image classification has performed very well classifying the 4 different types of Korean high-speed trains: KTX-1, KTX-EUM, KTX-Sancheon, and SRT with high confidence score. It is very evident that convolutional neural networks have strong computational power while producing accurate results when classifying the images. More epochs and more layers overall improved the accuracy for this model. For further improvements in image classification, adding more complex samples to the model will be considered. 
