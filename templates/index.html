@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<title>Upload New File</title>
+
+<title>KTX Image Classification</title>
+<h1>Upload new file</h1>
 <form method=post enctype=multipart/form-data>
-    <input type=filename=file>
-    <input type=submit value=Upload>
+    <input type=file name=image>
+    <input type=submit value=Predict>
+    <br>
+    <h3>Prediction: {{prediction}}</h3>
 </form>
 
-</html>
