@@ -156,7 +156,7 @@ According to the plots above, the train accuracy is very close to the testing ac
 # Prediction
 Once all the image datasets have been processed and the accuracy and loss score have been analyzed, a few set of images were given into the model to determine whether the model is accurate enough predicting the train type of a given image. Testing datasets were given into the model and the predictor plots the actual image respectively. 
 
-![title](images/predicted_image.png)
+![title](images/predictions.png)
 #### Figure 10. above shows the predicted output of each image data given into our model.
 
 ![title](images/confusion_matrix.png)
