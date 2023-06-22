@@ -253,21 +253,91 @@ The time-series forecasting model in general has predicted a positive trend and 
 ![title](louis_seoul_station/ktx_eum.png)
 # Have a fun trip everyone! 즐거운 여행이 되세요!
 
-# High-speed Lines in South Korea | 대한민국 고속철도 노선
+## High-speed Lines in South Korea | 대한민국 고속철도 노선
 
-### 경부고속선 | Gyeongbu High-speed Rail 
-
+### KTX 경부고속철도 | KTX Gyeongbu High-speed Rail 
  
  | **역명** | **Stations** |
  |----------|--------------|
-  | 행신 | Haengsin |
-  | 서울 | Seoul |
-  | 광명 | Gwangmyeong |
-  | 천안아산 | Cheonan-Asan |
-  | 오송 | Osong |
-  | 대전 | Daejeon |
-  | 김천구미 | Gimcheon-Gumi |
-  | 동대구 | Dongdaegu |
-  | 경주 | Gyeongju |
-  | 울산 (통도사) | Ulsan (Tongdosa) |
-  | 부산 | Busan |
+ | 행신 | Haengsin |
+ | 서울 | Seoul |
+ | 광명 | Gwangmyeong |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 대전 | Daejeon |
+ | 김천구미 | Gimcheon-Gumi |
+ | 동대구 | Dongdaegu |
+ | 경주 | Gyeongju |
+ | 울산 (통도사) | Ulsan (Tongdosa) |
+ | 부산 | Busan |
+
+### KTX 호남고속철도 | KTX Honam High-speed Rail 
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 행신 | Haengsin |
+ | 서울 | Seoul |
+ | 용산 | Yongsan |
+ | 광명 | Gwangmyeong |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 공주 | Gongju |
+ | 익산 | Iksan |
+ | 정읍 | Jeongeup |
+ | 광주송정 | Gwangjusongjeong |
+ | 나주 | Naju |
+ | 무안공항 | Muan Airport |
+ | 목포 | Mokpo |
+
+### KTX 동해선  | KTX Donghae Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 행신 | Haengsin |
+ | 서울 | Seoul |
+ | 광명 | Gwangmyeong |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 대전 | Daejeon |
+ | 김천구미 | Gimcheon-Gumi |
+ | 동대구 | Dongdaegu |
+ | 포항 | Pohang |
+
+### KTX 경전선 | KTX Gyeongjeon Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 행신 | Haengsin |
+ | 서울 | Seoul |
+ | 광명 | Gwangmyeong |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 대전 | Daejeon |
+ | 김천구미 | Gimcheon-Gumi |
+ | 동대구 | Dongdaegu |
+ | 밀양 | Miryang |
+ | 진영 | Jinyeong |
+ | 창원중앙 | Changwon-Jungang |
+ | 창원 | Changwon |
+ | 마산 | Masan |
+ | 진주 | Jinju |
+
+### KTX 전라선 | KTX Jeolla Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 행신 | Haengsin |
+ | 서울 | Seoul |
+ | 용산 | Yongsan |
+ | 광명 | Gwangmyeong |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 공주 | Gongju |
+ | 익산 | Iksan |
+ | 전주 | Jeonju |
+ | 남원 | Namwon |
+ | 곡성 | Gokseong |
+ | 구례구 | Guryegu |
+ | 순천 | Suncheon |
+ | 여천 | Yeocheon |
+ | 여수엑스포 | Yeosu-EXPO |
