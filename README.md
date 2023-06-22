@@ -253,7 +253,7 @@ The time-series forecasting model in general has predicted a positive trend and 
 ![title](louis_seoul_station/ktx_eum.png)
 # Have a fun trip everyone! 즐거운 여행이 되세요!
 
-## High-speed Lines in South Korea | 대한민국 고속철도 노선
+## High-speed Train Lines in South Korea | 대한민국 고속철도 노선
 
 ### KTX 경부고속철도 | KTX Gyeongbu High-speed Rail 
  
