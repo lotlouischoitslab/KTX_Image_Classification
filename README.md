@@ -258,7 +258,7 @@ The time-series forecasting model in general has predicted a positive trend and 
 ### 경부고속선 | Gyeongbu High-speed Rail 
 
 
-  |-------------------------|
+  |----------|--------------|
   | **역명** | **Stations** |
   | 행신 | Haengsin |
   | 서울 | Seoul |
