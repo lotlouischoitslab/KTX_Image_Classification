@@ -1,4 +1,4 @@
-# KTX Image Classification
+## KTX Image Classification | 한국고속철도 이미지 분석
 ## Contributors: 
 - ### Louis Sungwoo Cho 조성우
 
