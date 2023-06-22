@@ -257,15 +257,15 @@ The time-series forecasting model in general has predicted a positive trend and 
 
 ### 경부고속선 | Gyeongbu High-speed Rail 
 
-| **역명** | **Stations** |
-| 행신 | Haengsin |
-| 서울 | Seoul |
-| 광명 | Gwangmyeong |
-| 천안아산 | Cheonan-Asan |
-| 오송 | Osong |
-| 대전 | Daejeon |
-| 김천구미 | Gimcheon-Gumi |
-| 동대구 | Dongdaegu |
-| 경주 | Gyeongju |
-| 울산 (통도사) | Ulsan (Tongdosa) |
-| 부산 | Busan |
+  | **역명** | **Stations** |
+  | 행신 | Haengsin |
+  | 서울 | Seoul |
+  | 광명 | Gwangmyeong |
+  | 천안아산 | Cheonan-Asan |
+  | 오송 | Osong |
+  | 대전 | Daejeon |
+  | 김천구미 | Gimcheon-Gumi |
+  | 동대구 | Dongdaegu |
+  | 경주 | Gyeongju |
+  | 울산 (통도사) | Ulsan (Tongdosa) |
+  | 부산 | Busan |
