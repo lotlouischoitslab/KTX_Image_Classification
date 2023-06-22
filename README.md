@@ -289,6 +289,39 @@ The time-series forecasting model in general has predicted a positive trend and 
  | 무안공항 | Muan Airport |
  | 목포 | Mokpo |
 
+### SRT 수도권고속철도 | SRT Sudogwon/Gyeongbu High-speed Rail 
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 수서 | Suseo |
+ | 동탄 | Dongtan |
+ | 평택지제 | Pyeongtaek-Jije |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 대전 | Daejeon |
+ | 김천구미 | Gimcheon-Gumi |
+ | 동대구 | Dongdaegu |
+ | 경주 | Gyeongju |
+ | 울산 (통도사) | Ulsan (Tongdosa) |
+ | 부산 | Busan |
+
+### SRT 수도권고속철도 | SRT Sudogwon/Honam High-speed Rail 
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 수서 | Suseo |
+ | 동탄 | Dongtan |
+ | 평택지제 | Pyeongtaek-Jije |
+ | 천안아산 | Cheonan-Asan |
+ | 오송 | Osong |
+ | 공주 | Gongju |
+ | 익산 | Iksan |
+ | 정읍 | Jeongeup |
+ | 광주송정 | Gwangjusongjeong |
+ | 나주 | Naju |
+ | 무안공항 | Muan Airport |
+ | 목포 | Mokpo |
+
 ### KTX 동해선  | KTX Donghae Line
  
  | **역명** | **Stations** |
@@ -341,3 +374,73 @@ The time-series forecasting model in general has predicted a positive trend and 
  | 순천 | Suncheon |
  | 여천 | Yeocheon |
  | 여수엑스포 | Yeosu-EXPO |
+
+### KTX 경강선 | KTX Gyeonggang Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 서울 | Seoul |
+ | 청량리 | Cheongnyangi |
+ | 상봉 | Sangbong |
+ | 양평 | Yangpyeong |
+ | 서원주 | Seowonju |
+ | 만종 | Manjong |
+ | 횡성 | Hoengseong |
+ | 둔내 | Dunnae |
+ | 평창 | Pyeongchang |
+ | 진부(오대산) | Jinbu (Odaesan) |
+ | 강릉 | Gangneung |
+
+### KTX 영동선 | KTX Yeongdong Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 서울 | Seoul |
+ | 청량리 | Cheongnyangi |
+ | 상봉 | Sangbong |
+ | 양평 | Yangpyeong |
+ | 서원주 | Seowonju |
+ | 만종 | Manjong |
+ | 횡성 | Hoengseong |
+ | 둔내 | Dunnae |
+ | 평창 | Pyeongchang |
+ | 진부(오대산) | Jinbu (Odaesan) |
+ | 정동진 | Jeongdongjin |
+ | 묵호 | Mukho |
+ | 동해 | Donghae |
+ 
+### KTX 중앙선 | KTX Jungang Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 청량리 | Cheongnyangi |
+ | 양평 | Yangpyeong |
+ | 서원주 | Seowonju |
+ | 원주 | Wonju |
+ | 제천 | Jecheon |
+ | 단양 | Danyang |
+ | 풍기 | Punggi |
+ | 영주 | Yeongju |
+ | 안동 | Andong |
+ | 의성 | Uiseong |
+ | 영천 | Yeongcheon |
+ | 경주 | Gyeongju |
+ | 태화강 | Taehwagang |
+ | 신해운대 | Sinhaeundae |
+ | 부전 | Bujeon |
+
+### KTX 중부내륙선 | KTX Jungbunaeryuk Line
+ 
+ | **역명** | **Stations** |
+ |----------|--------------|
+ | 부발 | Bubal |
+ | 가남 | Ganam |
+ | 감곡장호원 | Gamgok-Janghowon |
+ | 앙성온천 | Angseong-Oncheon |
+ | 충주 | Chungju |
+ | 살미 | Salmi |
+ | 수안보 | Suanbo |
+ | 연풍 | Yeonpung |
+ | 문경 | Mungyeong |
+
+ 
