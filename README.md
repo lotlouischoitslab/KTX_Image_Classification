@@ -77,7 +77,7 @@ Track Gauge: 1435 mm Standard Gauge<br/>**
 Family: KTX<br/>
 Entered Service: December 2016<br/>
 Operator: SR Corporation<br/>
-Lines Served: Suseo HSR, Gyeongbu HSR, Honam HSR<br/>
+Lines Served: Suseo HSR, Gyeongbu HSR, Honam HSR, Gyeongjeon, Jeolla<br/>
 Maximum Operating Speed: 305 km/h<br/>
 Maximum Design Speed: 330 km/h<br/>
 Electricity: 25 kV AC 60 Hz<br/>
